@@ -1,0 +1,29 @@
+.container {
+  width: 300px;
+  margin: 0 auto;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  text-align: center;
+}
+
+p {
+  color: #333;
+  margin-top: 0;
+}
+
+button {
+  background: #333;
+  color: #fff;
+  border: 0;
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  cursor: pointer;
+}
+
+button:hover{
+    background: #555;
+}
+
+button:active{
+    background: #777;
+}

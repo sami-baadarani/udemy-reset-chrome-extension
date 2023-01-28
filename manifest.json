@@ -1,0 +1,11 @@
+{
+  "name": "Reset Udemy course progress",
+  "version": "1.0.0",
+  "description": "Reset Udemy course progress",
+  "manifest_version": 3,
+  "author": "Sami Baadarani",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Reset Udemy course"
+  }
+}

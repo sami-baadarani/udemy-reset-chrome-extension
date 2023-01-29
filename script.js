@@ -1,5 +1,5 @@
-document.getElementById('reset').addEventListener('click', function () {
-    // document.getElementById('myForm').reset();
+const resetBtn = document.querySelector('#reset');
+
+resetBtn.addEventListener('click', function () {
     console.log('reset')
-    window.location.reload();
 });
